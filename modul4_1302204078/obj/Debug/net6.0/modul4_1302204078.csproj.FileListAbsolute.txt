@@ -1,0 +1,15 @@
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.csproj.AssemblyReference.cache
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.GeneratedMSBuildEditorConfig.editorconfig
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.AssemblyInfoInputs.cache
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.AssemblyInfo.cs
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.csproj.CoreCompileInputs.cache
+F:\kuliah\modul4_1302204078\modul4_1302204078\bin\Debug\net6.0\modul4_1302204078.exe
+F:\kuliah\modul4_1302204078\modul4_1302204078\bin\Debug\net6.0\modul4_1302204078.deps.json
+F:\kuliah\modul4_1302204078\modul4_1302204078\bin\Debug\net6.0\modul4_1302204078.runtimeconfig.json
+F:\kuliah\modul4_1302204078\modul4_1302204078\bin\Debug\net6.0\modul4_1302204078.dll
+F:\kuliah\modul4_1302204078\modul4_1302204078\bin\Debug\net6.0\modul4_1302204078.pdb
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.dll
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\refint\modul4_1302204078.dll
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.pdb
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\modul4_1302204078.genruntimeconfig.cache
+F:\kuliah\modul4_1302204078\modul4_1302204078\obj\Debug\net6.0\ref\modul4_1302204078.dll
